@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283087243584",
+    "project_id": "kitchenstore-1bd6a",
+    "storage_bucket": "kitchenstore-1bd6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283087243584:android:37cf774354ab07ecaa92a5",
+        "android_client_info": {
+          "package_name": "com.example.kitchenstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283087243584-q2ck4qq3ll3efrpsss3dil3ts3a9mgfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA20Pz732VbwPRJeJHMP1CgFZOL_XkXCoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283087243584-q2ck4qq3ll3efrpsss3dil3ts3a9mgfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
